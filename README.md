@@ -43,3 +43,59 @@ The beginning stories of this sprint revolved around creating our basic app and 
 	
 	
 	![Index and Search Views](/images/story3_edit_delete_views.png)
+	
+	
+## **Web Scraping**
+
+With the following user stories we were tasked with utilizing BeautifulSoup to scrape a web page for relevant information. I chose a well known vendor within the keyboard community called KDBfans. Specifically I scraped their group buy page for the latest products and displayed them as a 'Vendor Spotlight' on my application. My rationale behind this was that each month we could focus on different vendors within the community showcasing their offerings. This was a great exercise of understanding of how to navigate the data structure of this website and parsing through the html I decided to use.
+
+
+![Index and Search Views](/images/story6-7_webscraping.png)
+
+
+## **Front End Development**
+
+I chose to use Bootstrap for front end work as it is a fairly robust and easy to use HTML and CSS framework. The color palette I worked with revolved around different greys, reds, black and white. I used paint 3d to create a fairly simple background to fill out the space of the page and boostrap components for most of the page elements.
+
+
+![Index and Search Views](/images/website_home_page.png)
+*App Homepage*
+
+![Index and Search Views](/images/vendor_spotlight.png)
+*Vendor Spotlight*
+
+![Index and Search Views](/images/my_builds.png)
+*Keyboard Build Index*
+
+
+## **Skills Aquired**
+
+
+* Working with Microsoft Azure Devops
+* Working within an Agile environment
+* Utilizing Pycharm as a powerful IDE
+* Working with Django as a web development framework
+* Using the console and pycharm terminal
+* Utilizing version control, specifically Git. Towards the beginning I had trouble understanding the correct way to use version 
+control but with the help of the project leads I learned how to make proper pull requests and resolve merge conflicts correctly
+* How to participate in sprint planning, daily standups and code retrospective meetings. These were very informative and useful 
+for getting quick answers to roadblocks that surfaced the day prior and also to keep everyone accountable for the tasks we were 
+assigned. This also allowed each of use to learn from each others roadblocks without having to experience them ourselves
+* The importance of using a virtual environment for each project worked on. Virtual environments allowed us to all be on the 
+same version of the software we used and relief from disrupting the configurations we had on our systems prior to the project
+* Working with the python Pip package mangement system
+* A deeper understanding of the Bootstrap framework
+* Importance of Debugging and what to look for, especially before submitting a pull request that could unecessarily waste time 
+for the project leads
+* How to effectively communicate with my peers and project leads
+* Knowing when to reach out for assistance if hitting a wall. I handle this fairly well but there is room for improvement as I 
+felt there were some moments where my search for a solution was becoming counterproductive and I should have reached out sooner 
+to save valuable time
+* Utilizing all available resources to find a solution to a problem, particularly reviewing my peers code who may have already 
+found a solution to a problem I was currently facing.
+
+
+## **Closing Thoughts**
+
+
+I am extremely grateful for the experiences I had during this sprint and I'm very proud of what I was able to accomplish. There were moments of frustration, relief of figuring out a problem, and celebration of completeing tasks; All of these were invaluable learning lessons. I requested to pull my code from the codebase to work on this project myself following this sprint. I would like to bring this to a live state someday as there is nothing quite like it in the keyboarding community to my knowledge. This project was a true pleasure to work on and the skills I've aquired will be extremely useful to whichever project I am tasked with in the future.
