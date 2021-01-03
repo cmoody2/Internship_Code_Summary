@@ -55,7 +55,7 @@ With the following user stories, we were tasked with utilizing Beautiful Soup to
 
 ## **Front End Development**
 
-I chose to use Bootstrap for front end work as it is a fairly robust and easy to use HTML and CSS framework. The color palette I worked with revolved around different greys, reds, black and white. I used paint 3d to create a fairly simple background to fill out the space of the page and Bootstrap components for most of the page elements.
+I chose to use Bootstrap for front end work as it is a fairly robust and easy to use HTML and CSS framework. I chose a monochrome color palette with added shades of red to work with. I used paint 3d to create a fairly simple background to fill out the space of the page and Bootstrap components for most of the page elements.
 
 
 ![Index and Search Views](/images/website_home_page.png)
