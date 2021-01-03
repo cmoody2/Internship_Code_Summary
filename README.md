@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-During the last few weeks of my studies at the Tech Academy, I worked with my peers to develop an interactive website for managing one's collections of things related to various hobbies using the Django framework. I chose to create an application based on a personal hobby, mechanical keyboards. The app would keep track of user builds as well as give general information about keyboards and keyboard related resources. 
+During the last few weeks of my studies at the Tech Academy, I worked with my peers to develop an interactive website for managing one's collections of things related to various hobbies using the Django framework. I chose to create an application based on a personal hobby, mechanical keyboards. This app would keep track of user builds as well as give general information about keyboards and keyboard related resources. 
 
 
 ## **CRUD Functionality**
