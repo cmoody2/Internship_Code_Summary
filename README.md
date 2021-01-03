@@ -15,3 +15,31 @@ The beginning stories of this sprint revolved around creating our basic app and 
     
     To fuflfill create functionality I set up a model that included fields for all of the necessary parts to a keyboard build as well as other user specific information. This allowed me to make use of the different field types django offers such as CharField, TextField, EmailField and the DateTimeField. With the keyboard specific fields, I utilized the Choices attribute to provide a extensive list of pre-entered choices. 
 
+
+	![Model Fields](/images/Model_Fields.png)
+
+
+    I then moved on to creating a form template and used the django ModelForm module to connect the two. The baked in form 
+	validation was very useful during this task.
+	
+
+	![ModelForm](/images/story-2_model_form.png)
+
+
+	![Model View Function](/images/story2_view-function.png)
+
+
+* **Read**
+
+	My next two stories involved adding a index table to display all objects within my database. To display individual details about each item, I added anchor tags for each cell withing an items row. I was also able to add search functionality and pagination for my index table.
+	
+	
+	![Index and Search Views](/images/story3_search_index_views.png)
+
+
+* **Update and Delete**
+
+	To add update functionality I utilized my previous form template with a few small changes. Both update and delete has their own functions as well as a function for delete confirmation.
+	
+	
+	![Index and Search Views](/images/story3_edit_delete_views.png)
