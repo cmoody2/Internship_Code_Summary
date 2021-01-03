@@ -9,7 +9,7 @@ During the last few weeks of my studies at the Tech Academy, I worked with my pe
 
 ## **CRUD Functionality**
 
-The beginning stories of this sprint revolved around creating our basic app and applying CRUD functionality. I started by setting up the basic elements of the project such as a base, homepage, navigation, and footer templates and mapping their corresponding URLs to their function-based views. During this step I also created the necessary URL routing for my homepage template and used template inheritance to connect all of my templates.
+The beginning stories of this sprint revolved around creating our basic app and applying CRUD functionality. I started by setting up the basic elements of the project such as a base, homepage, navigation, and footer templates and mapping their corresponding URLs to their function-based views. During this step I also created the necessary URL routing for my homepage template and used template inheritance to connect all of my templates together.
 
 * **Create**
     
