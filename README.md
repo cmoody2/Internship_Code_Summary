@@ -39,7 +39,7 @@ The beginning stories of this sprint revolved around creating our basic app and 
 
 * **Update and Delete**
 
-	To add update functionality I utilized my previous form template with a few small changes. Both update and delete has their own functions as well as a function for delete confirmation.
+	To implement update functionality I utilized my previous form template with a few small changes. Both update and delete has their own functions as well as a function for delete confirmation.
 	
 	
 	![Index and Search Views](/images/story3_edit_delete_views.png)
