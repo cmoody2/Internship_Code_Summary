@@ -47,7 +47,7 @@ The beginning stories of this sprint revolved around creating our basic app and 
 	
 ## **Web Scraping**
 
-With the following user stories, we were tasked with utilizing Beautiful Soup to scrape a web page for relevant information. I chose a well-known vendor within the keyboard community, KDBfans. Specifically, I scraped their group buy page for the latest products and displayed them as a 'Vendor Spotlight' on my application. My rationale behind this was that each month we could focus on different vendors within the community showcasing their offerings. This was a great exercise of understanding how to navigate the data structure of this website and parsing through the html I decided to use.
+With the following user stories, we were tasked with utilizing Beautiful Soup to scrape a web page for relevant information. I chose a well-known vendor within the keyboard community, KDBfans. Specifically, I scraped their group buy page for the latest products and displayed them as a 'Vendor Spotlight' on my application. My rationale behind this was that each month we could focus on different vendors within the community showcasing their offerings. This was a great exercise of understanding how to navigate the data structure of this website and parse through the html I decided to use.
 
 
 ![Index and Search Views](/images/story6-7_webscraping.png)
