@@ -1,6 +1,12 @@
 # **Python Live Project**
 
-[CRUD Functionality](/README.md#crud-functionality)
+## Table of Contents
+* [CRUD Functionality](/README.md#crud-functionality)
+* [Create](/README.md#web-scraping)
+* [Front End Development](/README.md#front-end-develop)
+* [SKills Acquired](/README.md#skills-acquired)
+* [Closing Thoughts](/README.md#closing-thoughts)
+
 
 ## **Introduction**
 
