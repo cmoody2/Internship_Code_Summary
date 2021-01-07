@@ -1,4 +1,4 @@
-# **Python Live Project**
+# **Internship application**
 
 ## Table of Contents
 * [CRUD Functionality](/README.md#crud-functionality)
@@ -10,12 +10,12 @@
 
 ## **Introduction**
 
-During the last few weeks of my studies at the Tech Academy, I worked with my peers to develop an interactive website for managing one's collections of things related to various hobbies using the Django framework. I chose to create an application based on a personal hobby, mechanical keyboards. This app would keep track of user builds as well as give general information about keyboards and keyboard related resources. 
+During the sprints we completed with Propser IT Consulting, I worked with my peers to develop an interactive website for managing one's collections of things related to various hobbies using the Django framework. I chose to create an application based on a personal hobby, mechanical keyboards. This app would keep track of user builds as well as give general information about keyboards and keyboard related resources. 
 
 
 ## **CRUD Functionality**
 
-The beginning stories of this sprint revolved around creating our basic app and applying CRUD functionality. I started by setting up the basic elements of the project such as a base, homepage, navigation, and footer templates and mapping their corresponding URLs to their function-based views. During this step I also created the necessary URL routing for my homepage template and used template inheritance to connect all of my templates together.
+The beginning the first sprint revolved around creating our basic app and applying CRUD functionality. I started by setting up the basic elements of the project such as a base, homepage, navigation, and footer templates and mapping their corresponding URLs to their function-based views. During this step I also created the necessary URL routing for my homepage template and used template inheritance to connect all of my templates together.
 
 * **Create**
     
@@ -37,7 +37,7 @@ The beginning stories of this sprint revolved around creating our basic app and 
 
 * **Read**
 
-	My next two stories involved adding an index table to display all objects within the database. To display individual details about each item, I added anchor tags for each cell withing an items row. I was also able to add search functionality and pagination for my index table.
+	My next two tasks involved adding an index table to display all objects within the database. To display individual details about each item, I added anchor tags for each cell withing an items row. I was also able to add search functionality and pagination for my index table.
 	
 	
 	![Index and Search Views](/images/story3_search_index_views.png)
@@ -53,7 +53,7 @@ The beginning stories of this sprint revolved around creating our basic app and 
 	
 ## **Web Scraping**
 
-With the following user stories, we were tasked with utilizing Beautiful Soup to scrape a web page for relevant information. I chose a well-known vendor within the keyboard community, KDBfans. Specifically, I scraped their group buy page for the latest products and displayed them as a 'Vendor Spotlight' on my application. My rationale behind this was that each month we could focus on different vendors within the community showcasing their offerings. This was a great exercise of understanding how to navigate the data structure of this website and parse through the html I decided to use.
+With the following work items, we were tasked with utilizing Beautiful Soup to scrape a web page for relevant information. I chose a well-known vendor within the keyboard community, KDBfans. Specifically, I scraped their group buy page for the latest products and displayed them as a 'Vendor Spotlight' on my application. My rationale behind this was that each month we could focus on different vendors within the community showcasing their offerings. This was a great exercise of understanding how to navigate the data structure of this website and parse through the html I decided to use.
 
 
 ![Index and Search Views](/images/story6-7_webscraping.png)
@@ -104,4 +104,4 @@ found a solution to a problem I was currently facing.
 ## **Closing Thoughts**
 
 
-I am extremely grateful for the experiences I had during this sprint and I'm very proud of what I was able to accomplish. There were moments of frustration with getting my code to work, moments of relief when figuring out a problem, and moments of celebration when completing a task; All of which were invaluable learning lessons. I requested to pull my code from the codebase to work on this project myself following this sprint. I would like to bring this to a live state someday as there is nothing quite like it in the keyboarding community to my knowledge. This project was a true pleasure to work on and the skills I've acquired will be extremely useful to whichever project I am tasked with in the future.
+I am extremely grateful for the experiences I had during this sprint and I'm very proud of what I was able to accomplish. There were moments of frustration with getting my code to work, moments of relief when figuring out a problem, and moments of celebration when completing a task; All of which were invaluable learning lessons. I requested to pull my code from the codebase to work on this project myself following this sprint. I would like to bring this to a live state someday as there is nothing quite like it in the keyboarding community to my knowledge. In the future, I would like to add: a "getting started" section on my homepage, another form under the "keyboard builder" section for user selected parts, and individual description pages for all of the common parts associated with keyboard builds. I would also like to reach out to different keyboard vendors to potential have their products showcased in the "vendor spotlight" section of my webiste. I've begun building rapport with some of these individuals during prior meetups in the region, so I believe this is potentially an achievebale goal. This project was a true pleasure to work on and the skills I've acquired will be extremely useful to whichever project I am tasked with in the future.
