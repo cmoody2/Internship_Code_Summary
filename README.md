@@ -4,7 +4,7 @@
 * [CRUD Functionality](/README.md#crud-functionality)
 * [Web Scraping](/README.md#web-scraping)
 * [Front End Development](/README.md#front-end-development)
-* [SKills Acquired](/README.md#skills-acquired)
+* [Skills Acquired](/README.md#skills-acquired)
 * [Closing Thoughts](/README.md#closing-thoughts)
 
 
